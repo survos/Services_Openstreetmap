@@ -1,0 +1,19 @@
+{
+    "name": "survos/services-openstreetmap",
+    "description": "Set of PHP 5.3 classes for interacting with OSM.",
+    "authors": [
+        {
+            "name": "Ken Guest",
+        },
+        {
+            "name": "Tac Tacelosky",
+            "email": "tacman@gmail.com",
+            "homepage": "http://www.survos.com/"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Services-OpenStreetMap": "Services/"
+        }
+    }
+}
